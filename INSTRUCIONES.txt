@@ -1,0 +1,6 @@
+1º en consola de VisualStudio code ejecutar comando para posicionarnos en el proyecto
+cd prueba-tecnica/ejer-prueba-tecnica
+
+2º lanzamos proyect para compilar
+npm run serve
+
